@@ -1,1 +1,1 @@
-#  Password for extracting "Experimental code" file is the paper title
+#  Password for extracting "Experiment code" file is the paper title
