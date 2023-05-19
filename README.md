@@ -7,12 +7,6 @@ Most e-commerce data include items that belong to different categories, e.g., pr
 ## Datasets used in this work
 https://drive.google.com/file/d/1Yz4Lflu--YXV8EksPSf5DUwr0Hrp-x_c/view?usp=share_link
 
-## Running an Experiment
-```python
-from time import time
-
-```
-
 ## Citing
 
 If you use the proposed simulation in your work, please cite the accompanying [paper]:
